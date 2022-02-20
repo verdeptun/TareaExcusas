@@ -9,7 +9,7 @@ window.onload = function() {
   let whenAleatorio = Math.floor(Math.random() * 5);
 
   let who = ["The dog", "My grandma", "His turtle", "My bird"];
-  let action = ["ate", "peed", "crushed", "broke"];
+  let action = ["ate", "stole", "crushed", "broke"];
   let what = ["my homework", "the keys", "the car"];
   let when = [
     "before the class",
